@@ -4,6 +4,15 @@
     font-size: 'poppins' , sans-serif;
     box-sizing: border-box;
 }
+a{
+    text-decoration: none;
+}
+.navigation {
+    box-shadow: rgb(222 208 208 / 16%) 0px 10px 36px 0px, rgb(46 26 26 / 6%) 0px 0px 0px 1px
+}
+.navigation a{
+    color: white;
+}
 .logo{
     width: 140px;
     height: 120px;
@@ -22,7 +31,7 @@ body{
     /* background-image: url(images/bg.png); */
     
 }
-.container{
+.main-container{
     padding: 10px 10%; 
 
 }
